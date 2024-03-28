@@ -1,0 +1,677 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sex": "Мужские",
+      "brand": "Casio",
+      "name": "Японские наручные часы Casio G-SHOCK DW-5600BB-1E с хронографом",
+      "price": 10230,
+      "imageUrl": "https://www.alltime.ru/obj/catalog/watch/casio/img/big/DW-5600BB-1E.jpg",
+      "description": "Стильные часы от Casio идеально подходят для тех, кто предпочитает спортивный стиль, но при этом остается в тренде. G-Specials. Электролюминесцентная подсветка освещает весь циферблат, после отпускания кнопки свечение продолжается еще некоторе время. Противоударный корпус защищает механизм от ударов и вибрации. Секундомер с двумя точностями показаний: 1/100с (до 1ч) и 1с (после 1ч) и временем измерения 24ч. Сплит-хронограф. Таймер обратного отсчета от 1мин до 24ч с автоповтором. 12-ти и 24-х часовой формат времени. Типы сигналов: ежедневный, ежемесячный, каждый день определенного месяца, на определенную дату. Световая индикация сигнала.",
+      "country": "Япония",
+      "model": "Casio G-SHOCK DW-5600BB-1E",
+      "type": "кварцевый",
+      "dial": "ЖК Черный",
+      "band": "пластиковый",
+      "waterproof": "200WR",
+      "dimensions": "48,9x42,8мм, толщина 13,4мм, вес 60г",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/casio/img/big/DW-5600BB-1E__1.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/casio/img/big/DW-5600BB-1E__2.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/casio/img/big/DW-5600BB-1E__3.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/casio/img/big/DW-5600BB-1E__4.jpg"
+        }
+      ],
+      "rating": 5,
+      "product": "watch"
+    },
+    {
+      "id": 2,
+      "sex": "Женские",
+      "brand": "Quadro",
+      "name": "Наручные часы Quadro Melrose Daniel Wellington DW00100510",
+      "price": 14620,
+      "imageUrl": "https://www.alltime.ru/obj/catalog/watch/daniel-wellington/img/big/DW00100510.jpg",
+      "description": "Изящные часики Quadro - идеальный вариант для элегантных девушек с тонким вкусом стиля. Quadro. Ультратонкие часы с прямоугольным корпусом и надежным японским механизмом. Метки в виде штрихов. Рифленая заводная головка. Индивидуальный серийный номер. Браслет миланского плетения. Дополнительно к часам в комплект можно приобрести фирменные украшения Daniel Wellington.",
+      "country": "Швеция",
+      "model": "Quadro Melrose Daniel Wellington DW00100510",
+      "type": "кварцевый",
+      "dial": "перламутровый розовый",
+      "band": "стальной миланский с розовым PVD покрытием",
+      "waterproof": "30WR",
+      "dimensions": "48,9x42,8мм, толщина 13,4мм, вес 60г",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/daniel-wellington/img/big/DW00100650.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/daniel-wellington/img/big/DW00100650__1.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/daniel-wellington/img/big/DW00100650__2.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/daniel-wellington/img/big/DW00100650__3.jpg"
+        }
+      ],
+      "rating": 4,
+      "product": "watch"
+    },
+    {
+      "id": 3,
+      "sex": "Мужские",
+      "brand": "Seiko",
+      "name": "Японские наручные часы Seiko SSB321P1 с хронографом",
+      "price": 37710,
+      "imageUrl": "https://www.alltime.ru/obj/catalog/watch/seiko/img/big/SSB321P1.jpg",
+      "description": "Часы для активных и сильных мужчин. Они не подведут даже в самых экстремальных условиях. CS Sports. Часы-хронограф с секундомером до 12ч, точность 1/5с. Тахиметр. Заводная головка с защитой. Завинчивающаяся задняя крышка. Браслет с раскладывающейся застежкой. Застежка с системой блокировки.",
+      "country": "Япония",
+      "model": "Seiko SSB321P1",
+      "type": "кварцевый",
+      "dial": "синий",
+      "band": "стальной",
+      "waterproof": "100WR",
+      "dimensions": "D 43,9мм",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/seiko/img/big/SSB321P1.jpg"
+        }
+      ],
+      "rating": 2,
+      "product": "watch"
+    },
+    {
+      "id": 4,
+      "sex": "Женские",
+      "brand": "Giga",
+      "name": "Механические керамические наручные часы CIGA Design U032-WU01-W5W7W",
+      "price": 162010,
+      "imageUrl": "https://www.alltime.ru/obj/catalog/watch/ciga-design/img/big/U032-WU01-W5W7W.jpg",
+      "description": "Новаторские уникальные часы позволят вам почувствовать, как течет время, когда земля вращается на вашем запястье. Инновационные наручные часы U-Series Ice Age с технологией асинхронного отслеживания времени. Победитель конкурса часов GPHG Challenge 2021 года. Удобный и практичный керамический корпус, на изготовление и полировку уходит более 270 часов. Центральная часть циферблата представляет собой куполообразную конструкцию с рельефным изображением континентов, окружающих Индийский океан. Вся эта секция вращается с течением времени. Вокруг глобуса расположено вращающееся кольцо для минут и неподвижное кольцо для часов. Минутное кольцо не вращается каждый час, а поворачивается на 360 градусов каждые 60 минут, чтобы совпасть с индикатором часов. Таким образом, время считывается только в одном месте, с помощью единственного указателя - компасной розы, указывающей часы и минуты. Часовая и минутная стрелки выравниваются в любое время суток. Выпуклое сапфировое стекло служит напоминанием об атмосфере и той защите, которую она обеспечивает. Браслет с раскладывающейся застежкой. В комплекте сменный силиконовый ремешок. Фирменная экологически чистая подарочная упаковка, которая воплощает концепцию защиты Голубой планеты, изготовлена из материалов, пригодных для вторичной переработки.",
+      "country": "Китай",
+      "model": "CIGA Design U032-WU01-W5W7W",
+      "type": "механический с автоподзаводом",
+      "dial": "серебристый, голубой",
+      "band": "керамический",
+      "waterproof": "30WR",
+      "dimensions": "D 43мм, толщина 15,5мм, ширина браслета 20мм",
+      "categoryType": "premium",
+      "sliderImages": [
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/ciga-design/img/big/U032-WU01-W5W7W.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/ciga-design/img/big/U032-WU01-W5W7W__1.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/ciga-design/img/big/U032-WU01-W5W7W__3.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/ciga-design/img/big/U032-WU01-W5W7W__4.jpg"
+        }
+      ],
+      "rating": 3,
+      "product": "watch"
+    },
+    {
+      "id": 5,
+      "sex": "Мужские",
+      "brand": "Cuervo",
+      "name": "Швейцарские механические наручные часы Cuervo y Sobrinos 2860.1BL",
+      "price": 351700,
+      "imageUrl": "https://www.alltime.ru/obj/catalog/watch/cuervo-y-sobrinos/img/big/2860-1BL.jpg",
+      "description": "Безупречные дайверские часы станут вашим верным спутником в покорении морских глубин. Мужские часы Buceador Caribe. Вдохновением на создание модели послужили голубое море и водный мир Кубы. В механизме 25 камней, частота 28800 полуколебаний в час. Запас хода 38 часов. Механизм часов декорирован узором Cotes de Geneve. Синий матовый циферблат. Метки в виде штрихов и арабских цифр. Окошко даты находится в положении 6 часов. Корпус с конструкцией контейнерного типа из полированной и сатинированной стали. Задняя крышка украшена гравировкой. Ремешок с классической застежкой, украшенной эмблемой бренда «CyS». Система быстрой замены ремешка. В комплекте сменный кожаный ремешок. В подарок фирменный хьюмидор.",
+      "country": "Швейцария",
+      "model": "Cuervo y Sobrinos 2860.1BL",
+      "type": "механический с автоподзаводом",
+      "dial": "синий",
+      "band": "каучуковый",
+      "waterproof": "200WR",
+      "dimensions": "D 43мм, толщина 15,8мм",
+      "categoryType": "premium",
+      "sliderImages": [
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/cuervo-y-sobrinos/img/big/2860-1BL.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/cuervo-y-sobrinos/img/big/2860-1BL__1.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/cuervo-y-sobrinos/img/big/2860-1BL__2.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/cuervo-y-sobrinos/img/big/2860-1BL__3.jpg"
+        }
+      ],
+      "rating": 5,
+      "product": "watch"
+    },
+    {
+      "id": 6,
+      "sex": "Мужские",
+      "brand": "Titoni",
+      "name": "Швейцарские механические наручные часы Titoni 797-S-697",
+      "price": 115310,
+      "imageUrl": "https://www.alltime.ru/obj/catalog/watch/titoni/img/big/797-S-697.jpg",
+      "description": "Элегантные и утонченные швейцарские механические часы. Простой и гармоничный дизайн часов никогда не потеряет своей актуальности. Водонепроницаемые механические наручные часы. В механизме 25 камней. Запас хода 40 часов. Ротор и мосты механизма с родиевым покрытием. Круглый стальной корпус c сатинированной поверхностью. Рифленый безель. Рельефный циферблат. Прямоугольные стрелки в стиле Baton с люминесцентным покрытием, которое светится в темноте после непродолжительной зарядки на свету. Метки в виде штрихов. Окошки даты и дня недели. Завинчивающаяся рифленая заводная головка. Надежный стальной браслет.",
+      "country": "Швейцария",
+      "model": "Titoni 797-S-697",
+      "type": "механический с автоподзаводом",
+      "dial": "зеленый",
+      "band": "стальной 316L",
+      "waterproof": "100WR",
+      "dimensions": "D 40мм, толщина 11,45мм",
+      "categoryType": "premium",
+      "sliderImages": [
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/titoni/img/big/797-S-697.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/titoni/img/big/797-S-697__1.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/titoni/img/big/797-S-697__2.jpg"
+        },
+        {
+          "img": "https://www.alltime.ru/obj/catalog/watch/boxing/Titoni-box.jpg"
+        }
+      ],
+      "rating": 2,
+      "product": "watch"
+    },
+    {
+      "id": 7,
+      "sex": "Мужской",
+      "brand": "Piquadro",
+      "name": "Мужской кожаный ремень Piquadro CU6279W118/TM",
+      "price": 14200,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/normal2020/CU6279W118-TM.jpg",
+      "description": "Мужской ремень из натуральной кожи.",
+      "model": "Piquadro CU6279W118/TM",
+      "material": "натуральная телячья кожа",
+      "color": "Темно-коричневый",
+      "dimensions": "125x3,5см",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/normal2020/CU6279W118-TM.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU6279W118-TM__1.jpg"
+        }
+      ],
+      "rating": 4,
+      "product": "belt"
+    },
+    {
+      "id": 8,
+      "sex": "Мужской",
+      "brand": "Piquadro",
+      "name": "Мужской кожаный ремень Piquadro CU2619B2/NBLU2",
+      "price": 17600,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU2619B2-NBLU2.jpg",
+      "description": "Двухсторонний ремень с вращающейся стандартной пряжкой. Изготовлен из высококачественной телячьей кожи с голубой окантовкой.",
+      "model": "Piquadro CU2619B2/NBLU2",
+      "material": "натуральная телячья кожа",
+      "color": "Синий, черный",
+      "dimensions": "175x3,5см, вес 190г",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU2619B2-NBLU2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU2619B2-NBLU2__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU2619B2-NBLU2__2.jpg"
+        }
+      ],
+      "rating": 5,
+      "product": "belt"
+    },
+    {
+      "id": 9,
+      "sex": "Женский",
+      "brand": "Piquadro",
+      "name": "Женский кожаный ремень Piquadro CU6179W92/R3",
+      "price": 11900,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU6179W92-R3.jpg",
+      "description": "Ремень женский из коллекции Circle. Изготовлен из натуральной телячьей кожи.",
+      "model": "Piquadro CU6179W92/R3",
+      "material": "натуральная телячья кожа",
+      "color": "Красный",
+      "dimensions": "110x2,5см, вес 95г",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU6179W92-R3.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/piquadro/img/big/CU6179W92-R3__1.jpg"
+        }
+      ],
+      "rating": 3,
+      "product": "belt"
+    },
+    {
+      "id": 10,
+      "sex": "Мужской",
+      "brand": "Rebel Heart",
+      "name": "Мужской кожаный ремень Rebel Heart RH16001",
+      "price": 275350,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/presents/rebel-heart/img/big/RH16001.jpg",
+      "description": "Ремень из натуральной кожи с пряжкой из серебра 925 пробы. Коллекция Rebel Heart.",
+      "model": "Rebel Heart RH16001",
+      "material": "натуральная телячья кожа",
+      "color": "Черный, серебристый",
+      "dimensions": "6х10см",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/rebel-heart/img/big/RH16001.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/rebel-heart/img/big/RH16001__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/rebel-heart/img/big/RH16001__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/rebel-heart/img/big/RH16001__3.jpg"
+        }
+      ],
+      "rating": 5,
+      "product": "belt"
+    },
+    {
+      "id": 11,
+      "sex": "Мужской",
+      "brand": "Montblanc",
+      "name": "Кожаный чехол Montblanc MB124128",
+      "price": 64120,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/presents/montblanc/img/big/MB124128.jpg",
+      "description": "Чехол для планшетного компьютера из натуральной кожи синего цвета. Внутри: одно основное отделение для тонкого ноутбука или планшета, 3 отделения для кредитных карт, дополнительные карманы для блокнота и пишущих инструментов. Эмблема Montblanc, кольцо с палладиевым напылением.",
+      "model": "Montblanc MB124128",
+      "material": "натуральная кожа",
+      "color": "Синий",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/montblanc/img/big/MB124128.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/montblanc/img/big/MB124128__1.jpg"
+        }
+      ],
+      "rating": 4,
+      "product": "cover"
+    },
+    {
+      "id": 12,
+      "sex": "Мужской",
+      "brand": "S.T.Dupont",
+      "name": "Кожаный чехол S.T.Dupont ST50700",
+      "price": 6550,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/presents/stdupont/img/big/ST50700.jpg",
+      "description": "Чехол для зажигалки Ligne 1.",
+      "model": "S.T.Dupont ST50700",
+      "material": "натуральная кожа",
+      "color": "Черный",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/presents/stdupont/img/big/ST50700.jpg"
+        }
+      ],
+      "rating": 2,
+      "product": "cover"
+    },
+    {
+      "id": 13,
+      "sex": "Мужские",
+      "brand": "Casio",
+      "name": "Японские наручные часы Casio G-SHOCK GW-B5600-2E с хронографом",
+      "price": 20990,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GW-B5600-2E.jpg",
+      "description": "Эти противоударные часы станут незаменимым для современного спортивного мужчины. G-SHOCK Classic. Питание от солнечной энергии Tough Solar - солнечные батарейки большой мощности. Функция автоматического сохранения энергии (отключает LCD дисплей). Время работы аккумулятора без подзарядки - 10 месяцев, при включенной функции сохранения энергии - 22 месяца. Индикатор уровня заряда батареи (до 7 уровней). Противоударный корпус защищает механизм от ударов и вибрации. Циферблат подсвечивается белым светодиодом, функция автоподсветки освещает циферблат при повороте часов к лицу. Беспроводная технология Bluetooth® 4.0 со сверхнизким потреблением энергии для синхронизации со смартфоном. При подключении к смартфону часы корректируют текущее время, настраивают будильник, а также копируют настройки мирового времени. Технология Multi Band 6 позволяет принимать сигналы от шести радиовышек, расположенных в различных точках земного шара, которые передают временные сигналы от определенных атомных часов. Коррекция текущего времени радиосигналом на территории почти всей Европы, США, Японии и Китая. Полетный журнал. Функция поиска телефона. Отображение дней недели на шести языках, включая русский. Мировое время – 39 городов (39 часовых поясов). Функция включения/отключения летнего времени. 12-ти и 24-х часовой формат времени. Секундомер с двумя точностями показаний: 1/100с (до 1ч) и 1с (после 1ч) и временем измерения 24ч. Сплит-хронограф. Таймер обратного отсчета от 1мин до 24ч. Функция включения/отключения звука.",
+      "country": "Япония",
+      "model": "Casio GW-B5600-2E",
+      "type": "кварцевый",
+      "dial": "ЖК Черный",
+      "band": "пластиковый",
+      "waterproof": "200WR",
+      "dimensions": "42,8x48,9мм, толщина 13,4мм, вес 53г",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GW-B5600-2E.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GW-B5600-2E__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GW-B5600-2E__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GW-B5600-2E__4.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/boxing/Casio_G-SHOCK-box.jpg"
+        }
+      ],
+      "rating": 5,
+      "product": "watch"
+    },
+    {
+      "id": 14,
+      "sex": "Мужские",
+      "brand": "CIGA",
+      "name": "Механические керамические наручные часы CIGA Design U031-BG01-W6B7B",
+      "price": 172820,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B.jpg",
+      "description": "Новаторские уникальные часы позволят вам почувствовать, как течет время, когда земля вращается на вашем запястье. Инновационные наручные часы U-Series Blue Planet с технологией асинхронного отслеживания времени. Победитель конкурса часов GPHG Challenge 2021 года. Удобный и практичный керамический корпус, на изготовление и полировку уходит более 340 часов. В механизме 30 камней, частота 28800 полуколебаний в час. Запас хода 40 часов. Центральная часть циферблата украшена позолотой 24К и представляет собой куполообразную алюминиевую конструкцию с рельефным изображением континентов, окружающих Индийский океан. Вся эта секция вращается с течением времени. Вокруг глобуса расположено вращающееся кольцо для минут и неподвижное кольцо для часов. Минутное кольцо не вращается каждый час, а поворачивается на 360 градусов каждые 60 минут, чтобы совпасть с индикатором часов. Таким образом, время считывается только в одном месте, с помощью единственного указателя - компасной розы, указывающей часы и минуты. Часовая и минутная стрелки выравниваются в любое время суток. Выпуклое сапфировое стекло служит напоминанием об атмосфере и той защите, которую она обеспечивает. Прозрачная задняя крышка. Браслет с раскладывающейся застежкой. Фирменная экологически чистая подарочная упаковка, которая воплощает концепцию защиты Голубой планеты, изготовлена из материалов, пригодных для вторичной переработки.",
+      "country": "Китай",
+      "model": "CIGA Design U031-BG01-W6B7B",
+      "type": "механический с автоподзаводом",
+      "dial": "черный, золотистый",
+      "band": "керамический",
+      "waterproof": "30WR",
+      "dimensions": "D 46мм, толщина 15,6мм, ширина браслета 22мм",
+      "categoryType": "premium",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B__3.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B__4.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B__5.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/ciga-design/img/big/U031-BG01-W6B7B__6.jpg"
+        }
+      ],
+      "rating": 2,
+      "product": "watch"
+    },
+    {
+      "id": 15,
+      "sex": "Мужские",
+      "brand": "Stuhrling",
+      "name": "Механические наручные часы Stuhrling 4031.1",
+      "price": 32090,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/watch/stuhrling/img/big/4031-1.jpg",
+      "description": "Классические скелетонизированные часы создадут должное впечатление о вас на любой деловой встрече. Скелетонизированные часы Atrium. Накладные метки в виде римских цифр. Завинчивающаяся задняя крышка со стеклом Krysterna. Рифленая заводная головка. Стальной браслет.",
+      "country": "США",
+      "model": "Stuhrling 4031.1",
+      "type": "механический с автоподзаводом",
+      "dial": "серебристый",
+      "band": "стальной",
+      "waterproof": "30WR",
+      "dimensions": "D 42мм",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/stuhrling/img/big/4031-1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/stuhrling/img/big/4031-1__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/stuhrling/img/big/4031-1__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/stuhrling/img/big/4031-1__3.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/stuhrling/img/big/4031-1__4.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/boxing/Stuhrling-box-new.jpg"
+        }
+      ],
+      "rating": 3,
+      "product": "watch"
+    },
+    {
+      "id": 16,
+      "sex": "Женские",
+      "brand": "Calvin Klein",
+      "name": "Швейцарские наручные часы Calvin Klein K7A23646",
+      "price": 34200,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/watch/calvin-klein/img/big/K7A23646.jpg",
+      "description": "Творческий подход в создании этого стильного аксессуара помог превратить часы в выразительную деталь современного образа. Rise. Женские часы в лаконичном исполнении с круглым корпусом и браслетом из стали.",
+      "country": "Швейцария",
+      "model": "Calvin Klein K7A23646",
+      "type": "кварцевый",
+      "dial": "белый, серебристый",
+      "band": "стальной с розовым PVD покрытием",
+      "waterproof": "30WR",
+      "dimensions": "D 38мм",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/calvin-klein/img/big/K7A23646.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/calvin-klein/img/big/K7A23646__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/calvin-klein/img/big/K7A23646__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/calvin-klein/img/big/K7A23646__3.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/boxing/CK-box.jpg"
+        }
+      ],
+      "rating": 4,
+      "product": "watch"
+    },
+    {
+      "id": 17,
+      "sex": "Мужские/Женские",
+      "brand": "Suunto",
+      "name": "Умные часы Suunto 9 Peak All Black Titanium SS050889000",
+      "price": 54200,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000.jpg",
+      "description": "Многофункциональные часы - выбор людей, которые не представляют свою жизнь без спорта. 9 Peak All Black Titanium. Ультратонкие унисекс смарт-часы для различных спортивных активностей, сочетающие в себе систему навигации GPS, хронограф, альтиметр, а также продвинутые возможности мониторинга сердечного ритма. Предустановлено более 80 спортивных режимов. Спутниковые системы навигации: GPS, ГЛОНАСС, Galileo, QZSS, BEIDOU. Оптическая технология измерения пульса - оптический датчик пульса на задней стороне часов испускает свет в запястье пользователя с помощью светодиодов и измеряет количество света, которое рассеивается кровотоком. Цветной сенсорный циферблат 1,2‘’ с разрешением 240x240. Настраиваемые экраны и подсветка. Дополнительные функции: второй часовой пояс, секундомер, SPLIT-хронограф, таймер, будильник, время восхода/захода солнца, автоматический переход на зимнее и летнее время. Датчики: барометрический альтиметр, электронный компас, термометр, пульсоксиметр (показывает уровень кислорода в крови). Синхронизация со смартфоном iOS и Android через Bluetooth Smart с мобильным приложением Suunto. Приложение Suunto позволяет получать на часах уведомления с телефона. Отслеживание активности: дневная минимальная ЧСС, цели активности - шаги, калории. Отслеживание среднего пульса во сне, время сна и бодрствования, качество сна. Совместимость с поясами-кардиодатчиками Bluetooth Smart. Перезаряжаемый аккумулятор. Индикатор заряда аккумулятора. Время работы аккумулятора: в режиме времени - 14 дней, в режиме с круглосуточным отслеживанием и мобильными уведомлениями часов - до 7 дней, режим тренировки с GPS - до 25ч/50ч/120ч/170ч в зависимости от установленного режима работы от батареи. Меню на 19-ти языках, включая русский. Рабочая температура от -20 °C до +55 °C. Часы оснащены собственной операционной системой Suunto. На официальном сайте вы можете скачать самые последние ПО для улучшения работы часов. Вибро-оповещение. Блокировка циферблата во время тренировок. Ремешок с классической застежкой и системой быстрой замены. Подробные характеристики в инструкции.",
+      "country": "Финляндия",
+      "model": "Suunto SS050889000",
+      "type": "процессор",
+      "dial": "ЖК черный",
+      "band": "силиконовый",
+      "waterproof": "100WR",
+      "dimensions": "D 43мм, толщина 10,6мм, ширина ремешка 22мм, вес 52г",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__3.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__4.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__5.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__6.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__7.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/suunto/img/big/SS050889000__8.jpg"
+        }
+      ],
+      "rating": 4,
+      "product": "watch"
+    },
+    {
+      "id": 18,
+      "sex": "Мужские",
+      "brand": "Tommy Hilfiger",
+      "name": "Наручные часы Tommy Hilfiger 1782349",
+      "price": 27980,
+      "imageUrl": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782349.jpg",
+      "description": "Дополнительные функции оценят практичные особы, которым дорога каждая минута. Emery. Циферблат выполнен по технологии Sunray (солнечные лучи). Метки в виде штрихов. 12-ти и 24-х часовой формат времени. Время в 24-х часовом формате, дата и день недели вынесены на отдельные циферблаты. Браслет с раскладывающейся застежкой.",
+      "country": "США",
+      "model": "Tommy Hilfiger 1782349",
+      "type": "кварцевый",
+      "dial": "синий",
+      "band": "стальной",
+      "waterproof": "50WR",
+      "dimensions": "D 38мм",
+      "categoryType": "default",
+      "sliderImages": [
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782349.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782349__1.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782349__2.jpg"
+        },
+        {
+          "img": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782349__3.jpg"
+        }
+      ],
+      "rating": 5,
+      "product": "watch"
+    }
+  ],
+  "sex": [
+    {
+      "id": 1,
+      "filter": "Мужской"
+    },
+    {
+      "id": 2,
+      "filter": "Женский"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "filter": "Montblanc"
+    },
+    {
+      "id": 2,
+      "filter": "S.T.Dupont"
+    },
+    {
+      "id": 3,
+      "filter": "Piquadro"
+    },
+    {
+      "id": 4,
+      "filter": "Rebel Heart"
+    },
+    {
+      "id": 5,
+      "filter": "Seiko"
+    },
+    {
+      "id": 6,
+      "filter": "Titoni"
+    },
+    {
+      "id": 7,
+      "filter": "Giga"
+    },
+    {
+      "id": 8,
+      "filter": "Quadro"
+    },
+    {
+      "id": 9,
+      "filter": "Casio"
+    },
+    {
+      "id": 10,
+      "filter": "Ceurvo"
+    },
+    {
+      "id": 11,
+      "filter": "Stuhrling"
+    },
+    {
+      "id": 12,
+      "filter": "Calvin Klein"
+    },
+    {
+      "id": 13,
+      "filter": "Suunto"
+    },
+    {
+      "id": 14,
+      "filter": "Tommy Hilfiger"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "filter": "Япония"
+    },
+    {
+      "id": 2,
+      "filter": "Швейцария"
+    },
+    {
+      "id": 3,
+      "filter": "Китай"
+    },
+    {
+      "id": 4,
+      "filter": "Швеция"
+    },
+    {
+      "id": 5,
+      "filter": "США"
+    },
+    {
+      "id": 6,
+      "filter": "Финляндия"
+    },
+    {
+      "id": 7,
+      "filter": "Китай"
+    },
+    {
+      "id": 8,
+      "filter": "Швейцария"
+    }
+  ]
+}

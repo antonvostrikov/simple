@@ -1,24 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { useEffect } from 'react';
+import { getProductsQuery } from './store/slices/getProductsSlice';
+import { useAppDispatch } from './hooks/redux';
+import Products from './components/Products';
+import { getBrands, getCountries, getSex } from './store/slices/getFiltersSlice';
+import Filter from './components/Filter';
 
 function App() {
+  const dispatch = useAppDispatch()
+
+  useEffect(() => {
+    dispatch(getProductsQuery())
+    dispatch(getBrands())
+    dispatch(getCountries())
+    dispatch(getSex())
+  }, [])
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Filter />
+      <Products />
     </div>
   );
 }
